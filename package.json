@@ -1,0 +1,9 @@
+{
+  "name": "hkjels-fibonacci",
+  "description": "Generate the first nth integers of the Fibonacci sequence",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
